@@ -9,6 +9,10 @@ int main(){
     return 0;
 }
 
+int game(){
+    cout<<"this is good game";
+}
+
 //  error fixed
 
 //mastrer
