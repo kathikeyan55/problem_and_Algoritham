@@ -7,3 +7,7 @@ int main(){
 
     return 0;
 }
+
+void game(){
+    cout<<"this is add game";
+}
