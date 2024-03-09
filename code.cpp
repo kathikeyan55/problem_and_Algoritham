@@ -12,6 +12,4 @@ int game(){
     cout<<"this is good game";
 }
 
-//  error fixed
-
-//mastrer
+// this place only for error handling now 
